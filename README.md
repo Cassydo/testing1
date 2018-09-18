@@ -1,2 +1,3 @@
 # testing1
-testing github repo
+Testing github repo
+For future directions on how to use your app
